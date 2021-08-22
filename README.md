@@ -7,6 +7,9 @@
   - [On Facebook.](https://www.facebook.com/code.pii/)
   - [mahadiahamed77@gmail.com](mailto:mahadiahamed77@gmail.com)
 
+![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=Mahadi-Ahammed)
+
+
 <!---
 Mahadi-Ahammed/Mahadi-Ahammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
