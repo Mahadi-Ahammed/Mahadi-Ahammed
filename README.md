@@ -7,8 +7,8 @@
   - [On Facebook.](https://www.facebook.com/code.pii/)
   - [mahadiahamed77@gmail.com](mailto:mahadiahamed77@gmail.com)
 
-![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=Mahadi-Ahammed&count_private=true&show_icons=true&theme=blueberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadi-Ahammed&layout=compact&show_icons=true&theme=blueberry)](https://github.com/Mahadi-Ahammed/github-readme-stats)
+![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=Mahadi-Ahammed&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadi-Ahammed&layout=compact&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Mahadi-Ahammed/github-readme-stats)
 
 
 <!---
