@@ -8,7 +8,7 @@
   - [mahadiahamed77@gmail.com](mailto:mahadiahamed77@gmail.com)
 
 ![Mahadi's github stats](https://github-readme-stats.vercel.app/api?username=Mahadi-Ahammed&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadi-Ahammed&layout=compact&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/Mahadi-Ahammed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadi-Ahammed&layout=compact&show_icons=true&theme=blueberry&include_all_commits=true&langs_count=8)](https://github.com/Mahadi-Ahammed/github-readme-stats)
 
 
 <!---
